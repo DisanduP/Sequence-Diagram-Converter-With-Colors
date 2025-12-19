@@ -1,0 +1,12 @@
+{
+  "name": "mermaid-to-drawio-converter",
+  "version": "1.0.0",
+  "description": "Convert Mermaid sequence diagrams to Draw.io XML format",
+  "main": "converter.js",
+  "scripts": {
+    "test": "node converter.js"
+  },
+  "keywords": ["mermaid", "drawio", "converter", "sequence", "diagram"],
+  "author": "",
+  "license": "MIT"
+}
